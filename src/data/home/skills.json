@@ -1,0 +1,107 @@
+[
+      {
+            "photo": "/assets/imgs/resume/1.svg",
+            "title": "Graphic Design",
+            "percent": "85%"
+      },
+      {
+            "photo": "/assets/imgs/resume/2.svg",
+            "title": "Pattern Recognition",
+            "percent": "70%"
+      },
+      {
+            "photo": "/assets/imgs/resume/3.svg",
+            "title": "Data Visualization",
+            "percent": "75%"
+      },
+      {
+            "photo": "/assets/imgs/resume/4.svg",
+            "title": "Architectural Design",
+            "percent": "65%"
+      },
+      {
+            "photo": "/assets/imgs/resume/arduino.png",
+            "title": "Arduino",
+            "percent": "60%"
+      },
+      {
+            "photo": "/assets/imgs/resume/c++.png",
+            "title": "C++",
+            "percent": "70%"
+      },
+      {
+            "photo": "/assets/imgs/resume/express.png",
+            "title": "Express.js",
+            "percent": "80%"
+      },
+      {
+            "photo": "/assets/imgs/resume/git.png",
+            "title": "Git",
+            "percent": "90%"
+      },
+      {
+            "photo": "/assets/imgs/resume/js.png",
+            "title": "JavaScript",
+            "percent": "95%"
+      },
+      {
+            "photo": "/assets/imgs/resume/json.png",
+            "title": "JSON",
+            "percent": "85%"
+      },
+      {
+            "photo": "/assets/imgs/resume/jwt.png",
+            "title": "JWT Authentication",
+            "percent": "75%"
+      },
+      {
+            "photo": "/assets/imgs/resume/mDB.png",
+            "title": "MongoDB",
+            "percent": "80%"
+      },
+      {
+            "photo": "/assets/imgs/resume/next.png",
+            "title": "Next.js",
+            "percent": "85%"
+      },
+      {
+            "photo": "/assets/imgs/resume/node.png",
+            "title": "Node.js",
+            "percent": "85%"
+      },
+      {
+            "photo": "/assets/imgs/resume/npm.png",
+            "title": "NPM",
+            "percent": "80%"
+      },
+      {
+            "photo": "/assets/imgs/resume/py.png",
+            "title": "Python",
+            "percent": "70%"
+      },
+      {
+            "photo": "/assets/imgs/resume/react.png",
+            "title": "React.js",
+            "percent": "90%"
+      },
+      {
+            "photo": "/assets/imgs/resume/s1.png",
+            "title": "UI / UX Design",
+            "percent": "95%"
+      },
+      {
+            "photo": "/assets/imgs/resume/s2.png",
+            "title": "Web Development",
+            "percent": "85%"
+      },
+      {
+            "photo": "/assets/imgs/resume/s3.png",
+            "title": "Mobile Development",
+            "percent": "80%"
+      },
+      {
+            "photo": "/assets/imgs/resume/s4.png",
+            "title": "WordPress Development",
+            "percent": "75%"
+      }
+]
